@@ -1,4 +1,12 @@
  <up><sub>2 min read</sub></sup> 
+ 
+ 
+ ##  heroku
+ 
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wanghaisheng/shopify-image-resizer)
+
+
 # Smart Image Resizer (SIR)
 - Have you ever been frustated when your favorite family picture or another wallpaper does not fit on your screen?
 - Have you tried to resize your image but it just scales up/down everything making the objects in the picture look peculiar?
